@@ -15,8 +15,8 @@ Olá, meu nome é Diego Andrade dos Santos, tenho 22 anos e desenvolvo aplicaç�
 ***
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=diandrade&show_icons=true&theme=ambient_gradient" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=diandrade&show_icons=true&theme=gruvbox_light" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diandrade&show_icons=true&theme=ambient_gradient&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diandrade&show_icons=true&theme=gruvbox_light&layout=compact&langs_count=8&card_width=320" />
 </a>
