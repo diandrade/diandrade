@@ -1,4 +1,6 @@
-### Oiê! meu nome é Diego Andrade
+### 🌠 Quem Sou 🌠
+
+***
 
 - 🔭 Hoje trabalho com Flutter e Swift
 - 🌱 Me aprofundando em desenvolvimento mobile
