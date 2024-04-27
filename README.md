@@ -4,4 +4,4 @@
 - 🌱 Me aprofundando em desenvolvimento mobile
 - 😄 Pronouns: Ele/Dele - Ela/Dela
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diandrade)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diandrade&show_icons=true&theme=radical)
