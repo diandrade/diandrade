@@ -11,7 +11,7 @@ Olá, meu nome é Diego Andrade dos Santos, tenho 22 anos e desenvolvo aplicaç�
 - Projetos em Kotlin/Android;
 - Projetos em Front-End;
 
-### 📱 Tecnologias Mais Utilizadas
+### 💌 Tecnologias Mais Utilizadas
 ***
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
