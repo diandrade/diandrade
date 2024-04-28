@@ -14,10 +14,10 @@ Olá, meu nome é Diego Andrade dos Santos, tenho 22 anos e desenvolvo aplicaç�
 ### 💌 Tecnologias Mais Utilizadas
 ***
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats" align="center">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=diandrade&show_icons=true&theme=gruvbox_light" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/anuraghazra/convoychat" align="center">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diandrade&show_icons=true&theme=gruvbox_light&layout=compact&langs_count=8&card_width=320" />
 </a>
 
