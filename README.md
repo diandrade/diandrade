@@ -1,15 +1,17 @@
 ### 🌠 Quem Sou 🌠
 ***
 
-Olá, meu nome é Diego Andrade dos Santos, tenho 22 anos e desenvolvo aplicações de forma autodidata. Sou formado em Comunicação Visual pela Etec Carlos de Campos e sou engajado em realizar telas visualmente atrativas, utilizando conceitos de Design de interface.
+Olá, meu nome é Diego Andrade dos Santos, tenho 22 anos e sou desenvolvedor autodidata, com foco em criar aplicações interativas e dinâmicas utilizando React JS. Tenho uma formação em Comunicação Visual pela Etec Carlos de Campos, o que me permite combinar minha paixão por design com a construção de interfaces visuais atraentes e funcionais.
+
+Estou sempre buscando aprimorar minhas habilidades em desenvolvimento front-end, aplicando conceitos de Design de Interface (UI) e Experiência do Usuário (UX), com o objetivo de proporcionar uma navegação intuitiva e envolvente. Tenho experiência na criação de componentes reutilizáveis em React, além de trabalhar com bibliotecas como Redux, React Router e Styled Components, sempre focando em otimizar a performance e a escalabilidade das aplicações.
+
+Além disso, me preocupo em garantir a responsividade e a acessibilidade dos sites, para que eles sejam funcionais e bem apresentados em diferentes dispositivos. Estou em constante aprendizado, buscando estar por dentro das últimas tendências e melhores práticas do mercado de desenvolvimento front-end.
 
 ### 📱 O Que Você Encontra no Meu Github 
 ***
-
-- Aplicações em Flutter;
-- Desenvolvimento de Lógica em Swift;
-- Projetos em Kotlin/Android;
-- Projetos em Front-End;
+- Desenvolvimento Full-Stack JavaScript com utilização de Node;
+- Aplicações em React JS;
+- Desenvolvimento Swift;
 
 ### 💌 Tecnologias Mais Utilizadas
 ***
