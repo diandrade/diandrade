@@ -1,20 +1,20 @@
-## 🌠 Quem Sou 🌠
+## 🌠 Who I Am 🌠
 ***
 
-Olá, meu nome é Diego Andrade dos Santos, tenho 22 anos e sou desenvolvedor autodidata, focado em criar aplicações interativas e dinâmicas utilizando React JS e Node.js. Atualmente, estou aprimorando minhas habilidades em desenvolvimento Full-Stack JavaScript, explorando boas práticas para construção de APIs robustas com Node e integrando essas soluções com interfaces modernas e responsivas em React.
+Hello! My name is Diego Andrade dos Santos, I am 22 years old and a self-taught developer focused on creating interactive and dynamic applications using React JS and Node.js. Currently, I am improving my skills in Full-Stack JavaScript development, exploring best practices for building robust APIs with Node and integrating these solutions with modern and responsive interfaces in React.
 
-Com formação em Comunicação Visual pela Etec Carlos de Campos, consigo unir minha paixão por design com a criação de interfaces intuitivas e atraentes. Tenho experiência no desenvolvimento de componentes reutilizáveis, aplicando conceitos de UI/UX, utilizando bibliotecas como Redux, React Router e Styled Components. Meu objetivo é sempre entregar soluções escaláveis, performáticas e acessíveis.
+With a degree in Visual Communication from Etec Carlos de Campos, I can combine my passion for design with the creation of intuitive and attractive interfaces. I have experience in developing reusable components, applying UI/UX concepts, and using libraries such as Redux, React Router, and Styled Components. My goal is to always deliver scalable, high-performance, and accessible solutions.
 
-Além do foco atual em JavaScript, já trabalhei com projetos mobile utilizando Flutter, Kotlin e Swift, o que ampliou minha visão sobre o desenvolvimento multiplataforma e a criação de experiências consistentes em diferentes dispositivos.
+In addition to my current focus on JavaScript, I have previously worked on mobile projects using Flutter, Kotlin, and Swift, which broadened my perspective on cross-platform development and creating consistent experiences across different devices.
 
-## 📱 O Que Você Encontra no Meu Github 
+## 📱 What You'll Find on My GitHub
 ***
-- Projetos Full-Stack utilizando React JS e Node.js;
-- Criação de APIs RESTful e integração com front-end;
-- Aplicações mobile utilizando Flutter, Kotlin e Swift;
-- Projetos que valorizam UI/UX com foco em design responsivo e acessível.
+- Full-Stack projects using React JS and Node.js;
+- RESTful API creation and front-end integration;
+- Mobile applications using Flutter, Kotlin, and Swift;
+- Projects that emphasize UI/UX with a focus on responsive and accessible design.
 
-## 💌 Tecnologias Mais Utilizadas
+## 💌 Most Used Technologies
 ***
 
 <div align="center">
