@@ -1,4 +1,4 @@
-### 🌠 Quem Sou 🌠
+## 🌠 Quem Sou 🌠
 ***
 
 Olá, meu nome é Diego Andrade dos Santos, tenho 22 anos e sou desenvolvedor autodidata, focado em criar aplicações interativas e dinâmicas utilizando React JS e Node.js. Atualmente, estou aprimorando minhas habilidades em desenvolvimento Full-Stack JavaScript, explorando boas práticas para construção de APIs robustas com Node e integrando essas soluções com interfaces modernas e responsivas em React.
@@ -7,14 +7,14 @@ Com formação em Comunicação Visual pela Etec Carlos de Campos, consigo unir 
 
 Além do foco atual em JavaScript, já trabalhei com projetos mobile utilizando Flutter, Kotlin e Swift, o que ampliou minha visão sobre o desenvolvimento multiplataforma e a criação de experiências consistentes em diferentes dispositivos.
 
-### 📱 O Que Você Encontra no Meu Github 
+## 📱 O Que Você Encontra no Meu Github 
 ***
 - Projetos Full-Stack utilizando React JS e Node.js;
 - Criação de APIs RESTful e integração com front-end;
 - Aplicações mobile utilizando Flutter, Kotlin e Swift;
 - Projetos que valorizam UI/UX com foco em design responsivo e acessível.
 
-### 💌 Tecnologias Mais Utilizadas
+## 💌 Tecnologias Mais Utilizadas
 ***
 
 <div align="center">
