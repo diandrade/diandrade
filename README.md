@@ -1,17 +1,18 @@
 ### 🌠 Quem Sou 🌠
 ***
 
-Olá, meu nome é Diego Andrade dos Santos, tenho 22 anos e sou desenvolvedor autodidata, com foco em criar aplicações interativas e dinâmicas utilizando React JS. Tenho uma formação em Comunicação Visual pela Etec Carlos de Campos, o que me permite combinar minha paixão por design com a construção de interfaces visuais atraentes e funcionais.
+Olá, meu nome é Diego Andrade dos Santos, tenho 22 anos e sou desenvolvedor autodidata, focado em criar aplicações interativas e dinâmicas utilizando React JS e Node.js. Atualmente, estou aprimorando minhas habilidades em desenvolvimento Full-Stack JavaScript, explorando boas práticas para construção de APIs robustas com Node e integrando essas soluções com interfaces modernas e responsivas em React.
 
-Estou sempre buscando aprimorar minhas habilidades em desenvolvimento front-end, aplicando conceitos de Design de Interface (UI) e Experiência do Usuário (UX), com o objetivo de proporcionar uma navegação intuitiva e envolvente. Tenho experiência na criação de componentes reutilizáveis em React, além de trabalhar com bibliotecas como Redux, React Router e Styled Components, sempre focando em otimizar a performance e a escalabilidade das aplicações.
+Com formação em Comunicação Visual pela Etec Carlos de Campos, consigo unir minha paixão por design com a criação de interfaces intuitivas e atraentes. Tenho experiência no desenvolvimento de componentes reutilizáveis, aplicando conceitos de UI/UX, utilizando bibliotecas como Redux, React Router e Styled Components. Meu objetivo é sempre entregar soluções escaláveis, performáticas e acessíveis.
 
-Além disso, me preocupo em garantir a responsividade e a acessibilidade dos sites, para que eles sejam funcionais e bem apresentados em diferentes dispositivos. Estou em constante aprendizado, buscando estar por dentro das últimas tendências e melhores práticas do mercado de desenvolvimento front-end.
+Além do foco atual em JavaScript, já trabalhei com projetos mobile utilizando Flutter, Kotlin e Swift, o que ampliou minha visão sobre o desenvolvimento multiplataforma e a criação de experiências consistentes em diferentes dispositivos.
 
 ### 📱 O Que Você Encontra no Meu Github 
 ***
-- Desenvolvimento Full-Stack JavaScript com utilização de Node;
-- Aplicações em React JS;
-- Desenvolvimento Swift;
+- Projetos Full-Stack utilizando React JS e Node.js;
+- Criação de APIs RESTful e integração com front-end;
+- Aplicações mobile utilizando Flutter, Kotlin e Swift;
+- Projetos que valorizam UI/UX com foco em design responsivo e acessível.
 
 ### 💌 Tecnologias Mais Utilizadas
 ***
