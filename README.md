@@ -46,8 +46,7 @@ Desde que comecei a programar, mergulhei em projetos que unem **tecnologia e cri
   <img align="center" alt="Java" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">  
   <img align="center" alt="Spring" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">  
   <img align="center" alt="Flutter" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">  
-  <img align="center" alt="Figma" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">  
-  <img align="center" alt="AWS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">  
+  <img align="center" alt="Figma" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">    
 </div>  
 
 ---
