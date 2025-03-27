@@ -1,49 +1,63 @@
-## 🌠 Who I Am 🌠
-***
+# 👋 Olá, visitante!  
 
-Hello! My name is Diego Andrade dos Santos, I am 22 years old and a self-taught developer focused on creating interactive and dynamic applications using React JS and Node.js. Currently, I am improving my skills in Full-Stack JavaScript development, exploring best practices for building robust APIs with Node and integrating these solutions with modern and responsive interfaces in React.
+😉 Não sei exatamente como você chegou aqui, mas vou compartilhar um pouco sobre mim.  
 
-With a degree in Visual Communication from Etec Carlos de Campos, I can combine my passion for design with the creation of intuitive and attractive interfaces. I have experience in developing reusable components, applying UI/UX concepts, and using libraries such as Redux, React Router, and Styled Components. My goal is to always deliver scalable, high-performance, and accessible solutions.
+---
 
-In addition to my current focus on JavaScript, I have previously worked on mobile projects using Flutter, Kotlin, and Swift, which broadened my perspective on cross-platform development and creating consistent experiences across different devices.
+## 🌟 **Quem sou eu**  
 
-## 📱 What You'll Find on My GitHub
-***
-- Full-Stack projects using React JS and Node.js;
-- RESTful API creation and front-end integration;
-- Mobile applications using Flutter, Kotlin, and Swift;
-- Projects that emphasize UI/UX with a focus on responsive and accessible design.
+Meu nome é **Diego Andrade dos Santos**, tenho **22 anos** e sou um **desenvolvedor Full-Stack** em formação, cursando **Análise e Desenvolvimento de Sistemas na FIAP**.  
 
-## 💌 Most Used Technologies
-***
+**Atualmente, meu foco está em:**  
+- **Front-end:** Desenvolvimento de interfaces dinâmicas com `React`, `Next.js`, `Redux` e `TailwindCSS`.  
+- **Back-end:** Construção de APIs robustas com `Spring Boot (Java)` e exploração de `Node.js`.  
+- **UI/UX:** Aplicação de conceitos de design intuitivo (formação em **Comunicação Visual** pela ETEC Carlos de Campos).  
 
-<div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=diandrade&show_icons=true&theme=gruvbox_light" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diandrade&show_icons=true&theme=gruvbox_light&layout=compact&langs_count=8&card_width=320" />
-</a>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
-</div>
+**Também me aventuro em:**  
+☁️ `Cloud Computing` (AWS/Azure)  
+🤖 `Inteligência Artificial` (modelos de ML)  
+📊 `Bancos de dados` (SQL e Big Data)  
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-</div>
+---
 
-<br>
+## 🚀 **Trajetória e Objetivos**  
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andradedossantosdiego/)
+Desde que comecei a programar, mergulhei em projetos que unem **tecnologia e criatividade**. Já trabalhei com:  
+- **Mobile:** Apps em `Flutter`, `Kotlin` e `Swift`.  
+- **Web:** Sistemas full-stack integrando front-end moderno e APIs escaláveis.  
+
+**Meu propósito?** Criar soluções **acessíveis, performáticas e visualmente atraentes**, sempre aprendendo e compartilhando conhecimento.  
+
+---
+
+## 💡 **Curiosidades**  
+
+- 🎨 Apaixonado por **design** e interfaces intuitivas.  
+- 🥋 Praticante de **Taekwondo** - equilíbrio entre disciplina física e mental. 
+- 🌍 Acredito no **poder da colaboração** e adoro ajudar outros devs.  
+
+---
+
+## 🛠 **Tech Stack**  
+
+<div style="display: inline_block">  
+  <img align="center" alt="React" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">  
+  <img align="center" alt="Next.js" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">  
+  <img align="center" alt="Java" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">  
+  <img align="center" alt="Spring" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">  
+  <img align="center" alt="Flutter" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">  
+  <img align="center" alt="Figma" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">  
+  <img align="center" alt="AWS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">  
+</div>  
+
+---
+
+## 📌 **Contato e Links**  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andradedossantosdiego/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.andradediego@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diandrade)  
+
+---
+
+### 🌠 **"Código é arte, e cada projeto é uma nova tela."**  
