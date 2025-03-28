@@ -6,7 +6,7 @@
 
 ## 🌟 **Quem sou eu**  
 
-Meu nome é **Diego Andrade dos Santos**, tenho **22 anos** e sou um **desenvolvedor Full-Stack** em formação, cursando **Análise e Desenvolvimento de Sistemas na FIAP**.  
+Meu nome é **Diego Andrade dos Santos**, tenho **23 anos** e sou um **desenvolvedor Full-Stack** em formação, cursando **Análise e Desenvolvimento de Sistemas na FIAP**.  
 
 **Atualmente, meu foco está em:**  
 - **Front-end:** Desenvolvimento de interfaces dinâmicas com `React`, `Next.js`, `Redux` e `TailwindCSS`.  
