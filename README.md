@@ -1,59 +1,66 @@
-# 🌠 **"Código é arte, e cada projeto é uma nova tela."**  
+# Diego Andrade dos Santos
 
-😉 Não sei exatamente como você chegou aqui, mas vou compartilhar um pouco sobre mim.  
-
----
-
-## 🌟 **Quem sou eu**  
-
-Meu nome é **Diego Andrade dos Santos**, tenho **23 anos** e sou um **desenvolvedor Full-Stack** em formação, cursando **Análise e Desenvolvimento de Sistemas na FIAP**.  
-
-**Atualmente, meu foco está em:**  
-- **Front-end:** Desenvolvimento de interfaces dinâmicas com `React`, `Next.js`, `Redux` e `TailwindCSS`.  
-- **Back-end:** Construção de APIs robustas com `Spring Boot (Java)` e exploração de `Node.js`.  
-- **UI/UX:** Aplicação de conceitos de design intuitivo (formação em **Comunicação Visual** pela ETEC Carlos de Campos).  
-
-**Também me aventuro em:**  
-☁️ `Cloud Computing` (AWS/Azure)  
-🤖 `Inteligência Artificial` (modelos de ML)  
-📊 `Bancos de dados` (SQL e Big Data)  
+Desenvolvedor em formação, com foco em fundamentos da programação, estruturas de dados e desenvolvimento web. Atualmente cursando **Análise e Desenvolvimento de Sistemas** na **FIAP**, e participando ativamente de trilhas formativas como o **CS50 (Harvard)** e a **42 São Paulo**.
 
 ---
 
-## 🚀 **Trajetória e Objetivos**  
+## 📚 Formação
 
-Desde que comecei a programar, mergulhei em projetos que unem **tecnologia e criatividade**. Já trabalhei com:  
-- **Mobile:** Apps em `Flutter`, `Kotlin` e `Swift`.  
-- **Web:** Sistemas full-stack integrando front-end moderno e APIs escaláveis.  
-
-**Meu propósito?** Criar soluções **acessíveis, performáticas e visualmente atraentes**, sempre aprendendo e compartilhando conhecimento.  
-
----
-
-## 💡 **Curiosidades**  
-
-- 🎨 Apaixonado por **design** e interfaces intuitivas.  
-- 🥋 Praticante de **Taekwondo** - equilíbrio entre disciplina física e mental. 
-- 🌍 Acredito no **poder da colaboração** e adoro ajudar outros devs.  
+- 🎓 **Análise e Desenvolvimento de Sistemas** — FIAP  
+- 💻 **CS50: Introduction to Computer Science** — Harvard (em andamento)  
+- 🧠 **42 São Paulo** — Cadete em formação, com foco em linguagem C, lógica e Unix  
+- 🎨 **Técnico em Comunicação Visual** — ETEC Carlos de Campos
 
 ---
 
-## 🛠 **Tech Stack**  
+## 💼 Áreas de Estudo
 
-<div style="display: inline_block">  
-  <img align="center" alt="React" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">  
-  <img align="center" alt="Next.js" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">  
-  <img align="center" alt="Java" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">  
-  <img align="center" alt="Spring" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">  
-  <img align="center" alt="Figma" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">    
-</div>  
+- **Linguagem C**  
+  - Ponteiros, memória dinâmica, structs e lógica de baixo nível  
+  - Projetos seguindo a Norminette (padrão de código 42)  
+
+- **Fundamentos de Computação**  
+  - Estruturas de dados, algoritmos, recursão e lógica booleana  
+
+- **Unix e Git**  
+  - Shell Script básico  
+  - Controle de versão com Git e uso avançado do terminal  
+
+- **Desenvolvimento Web (Front-End)**  
+  - HTML5, CSS3 e JavaScript básico  
+  - Semântica, acessibilidade e responsividade  
+
+- **Design e UI**  
+  - Princípios de design aplicados à prototipação e layout com Figma  
 
 ---
 
-## 📌 **Contato e Links**  
+## 🚧 Tecnologias em Aprendizado
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andradedossantosdiego/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.andradediego@gmail.com)
+- `Java` com foco em orientação a objetos  
+- `Spring Boot` para criação de APIs REST  
+- `React.js` com `TailwindCSS`  
+- `Node.js` e `SQL` (PostgreSQL) para back-end básico  
+
+---
+
+## 🛠 Tech Stack
+
+<div style="display: inline_block">
+  <img align="center" alt="C" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="Git" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Linux" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img align="center" alt="HTML" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Figma" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+  <img align="center" alt="VSCode" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+</div>
+
+---
+
+## 📌 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andradedossantosdiego/) 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diandrade)  
-
---- 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.andradediego@gmail.com)
