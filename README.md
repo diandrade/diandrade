@@ -1,6 +1,6 @@
 # Diego Andrade dos Santos
 
-Desenvolvedor em formação, com foco em fundamentos da programação, estruturas de dados e desenvolvimento web. Atualmente cursando **Análise e Desenvolvimento de Sistemas** na **FIAP**, e participando ativamente de trilhas formativas como o **CS50 (Harvard)**.
+Desenvolvedor em formação, com foco em fundamentos da programação, estruturas de dados e desenvolvimento web. Atualmente cursando **Análise e Desenvolvimento de Sistemas** na **FIAP**, e participando de trilhas formativas como o **CS50 (Harvard)**.
 
 ---
 
