@@ -1,14 +1,13 @@
 # Diego Andrade dos Santos
 
-Desenvolvedor em formação, com foco em fundamentos da programação, estruturas de dados e desenvolvimento web. Atualmente cursando **Análise e Desenvolvimento de Sistemas** na **FIAP**, e participando ativamente de trilhas formativas como o **CS50 (Harvard)** e a **42 São Paulo**.
+Desenvolvedor em formação, com foco em fundamentos da programação, estruturas de dados e desenvolvimento web. Atualmente cursando **Análise e Desenvolvimento de Sistemas** na **FIAP**, e participando ativamente de trilhas formativas como o **CS50 (Harvard)**.
 
 ---
 
 ## 📚 Formação
 
 - 🎓 **Análise e Desenvolvimento de Sistemas** — FIAP  
-- 💻 **CS50: Introduction to Computer Science** — Harvard (em andamento)  
-- 🧠 **42 São Paulo** — Cadete em formação, com foco em linguagem C, lógica e Unix  
+- 💻 **CS50: Introduction to Computer Science** — Harvard (em andamento)   
 - 🎨 **Técnico em Comunicação Visual** — ETEC Carlos de Campos
 
 ---
@@ -17,7 +16,7 @@ Desenvolvedor em formação, com foco em fundamentos da programação, estrutura
 
 - **Linguagem C**  
   - Ponteiros, memória dinâmica, structs e lógica de baixo nível  
-  - Projetos seguindo a Norminette (padrão de código 42)  
+  - Projetos seguindo a Norminette (padrão de código 42) 
 
 - **Fundamentos de Computação**  
   - Estruturas de dados, algoritmos, recursão e lógica booleana  
