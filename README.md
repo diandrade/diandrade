@@ -6,7 +6,7 @@ Desenvolvedor em formação, com foco em fundamentos da programação, estrutura
 
 ## 📚 Formação
 
-- 🎓 **Análise e Desenvolvimento de Sistemas** — FIAP  
+- 🎓 **Análise e Desenvolvimento de Sistemas** — FIAP (em andamento) 
 - 💻 **CS50: Introduction to Computer Science** — Harvard (em andamento)   
 - 🎨 **Técnico em Comunicação Visual** — ETEC Carlos de Campos
 
