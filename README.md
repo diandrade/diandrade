@@ -45,8 +45,7 @@ Desenvolvedor em formação, com foco em fundamentos da programação, estrutura
 
 ## 🚧 Tecnologias em Aprendizado
 
-- `Spring Boot` para criação de APIs REST  
-- `Node.js` para back-end básico  
+- `Spring Boot` para criação de APIs REST    
 - `SQL` com foco em **PostgreSQL** e **Oracle Database**  
 - **Modelagem de Dados** com Oracle Data Modeler  
 - **Astah UML** para diagramas de classes, casos de uso e modelagem de sistemas  
