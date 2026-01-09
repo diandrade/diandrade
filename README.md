@@ -1,92 +1,112 @@
+Perfeito — entendi 👍
+Abaixo está a **versão de README mais próxima do primeiro exemplo**, mantendo:
+
+* Estrutura **limpa e acadêmico-profissional**
+* Linguagem **sóbria e objetiva**
+* Ênfase em **Engenharia de Software e Back-end Cloud**
+* Sem excesso de “marketing”, mais **clareza técnica**
+
+---
+
 # Diego Andrade dos Santos
 
-Desenvolvedor em formação, com foco em fundamentos da programação, estruturas de dados e desenvolvimento web. Atualmente cursando **Análise e Desenvolvimento de Sistemas** na **FIAP**, e participando de trilhas formativas como o **CS50 (Harvard)**.  
+Desenvolvedor em formação, com foco em **Engenharia de Software**, **fundamentos da programação**, **estruturas de dados** e **desenvolvimento back-end**. Atualmente cursando **Análise e Desenvolvimento de Sistemas** na **FIAP**, com estudos voltados a **Java**, **APIs REST** e **computação em nuvem (AWS)**, buscando consolidar boas práticas de arquitetura e desenvolvimento de software.
 
 ---
 
 ## 📚 Formação
 
-- 🎓 **Análise e Desenvolvimento de Sistemas** — FIAP (em andamento)  
-- 💻 **CS50: Introduction to Computer Science** — Harvard (em andamento)  
-- 🎨 **Técnico em Comunicação Visual** — ETEC Carlos de Campos  
+* 🎓 **Análise e Desenvolvimento de Sistemas** — FIAP *(em andamento)*
+* 💻 **Bootcamp Back-End Java & AWS** — Digital Innovation One *(em andamento)*
+
+  * Desenvolvimento de APIs REST com **Spring Boot**
+  * Integração com bancos **SQL e NoSQL**
+  * Deploy e fundamentos de arquitetura em **AWS**
+* 🎨 **Técnico em Comunicação Visual** — ETEC Carlos de Campos
+
+---
+
+## ☁️ Cloud & Estudos Atuais
+
+* **AWS Academy**
+
+  * Fundamentos de computação em nuvem
+  * Serviços AWS (EC2, S3, IAM, RDS)
+  * Conceitos de segurança, escalabilidade e arquitetura
 
 ---
 
 ## 🏆 Conquistas
 
-- 🥇 Campeão da **Global Solution FIAP — 1º semestre de 2025**  
+* 🥇 Campeão da **Global Solution FIAP — 1º semestre de 2025**
+* 🥉 **Medalha de Bronze — FIAP Next 2025**
 
 ---
 
 ## 💼 Áreas de Estudo
 
-- **Linguagem C**  
-  - Ponteiros, memória dinâmica, structs e lógica de baixo nível  
+### **Linguagem C**
 
-- **Java e Estruturas de Dados**  
-  - Programação orientada a objetos  
-  - Listas, filas, pilhas, árvores e boas práticas de implementação  
-  - Integração com APIs e arquitetura de sistemas  
+* Ponteiros, gerenciamento de memória e structs
+* Lógica de baixo nível e fundamentos da computação
 
-- **Fundamentos de Computação**  
-  - Algoritmos, recursão e lógica booleana  
+### **Java & Estruturas de Dados**
 
-- **Unix e Git**  
-  - Shell Script básico  
-  - Controle de versão com Git e uso avançado do terminal  
+* Programação Orientada a Objetos
+* Listas, filas, pilhas e árvores
+* Boas práticas de organização e manutenção de código
+* Desenvolvimento de APIs e integração entre camadas
 
-- **Banco de Dados (SQL)**  
-  - Modelagem de dados relacionais  
-  - MySQL e Oracle Database  
-  - Prática com comandos:  
-    - **DDL (Data Definition Language)** — CREATE, ALTER, DROP  
-    - **DML (Data Manipulation Language)** — INSERT, UPDATE, DELETE  
-    - **DQL (Data Query Language)** — SELECT  
-    - **DCL (Data Control Language)** — GRANT, REVOKE  
-    - **TCL (Transaction Control Language)** — COMMIT, ROLLBACK, SAVEPOINT  
+### **Engenharia de Software**
 
-- **Desenvolvimento Web (Front-End)**  
-  - HTML5, CSS3 e JavaScript  
-  - React.js com foco em componentes reutilizáveis, responsividade e acessibilidade  
-  - TailwindCSS para estilização moderna e eficiente  
+* Levantamento e documentação de requisitos
+* Modelagem de sistemas e introdução ao **Domain Driven Design (DDD)**
+* Metodologias ágeis (Scrum)
+* Alinhamento entre software, negócio e experiência do usuário
 
-- **Design e UI**  
-  - Princípios de design aplicados à prototipação e layout com Figma  
+### **Banco de Dados (SQL)**
 
----
+* Modelagem relacional e normalização
+* MySQL e Oracle Database
+* Prática com:
 
-## 🚧 Tecnologias em Aprendizado
+  * **DDL, DML, DQL, DCL e TCL**
 
-- `SQL` com foco em **MySQL** e **Oracle Database**  
-- **Modelagem de Dados** com Oracle Data Modeler  
-- **Astah UML** para diagramas de classes, casos de uso e modelagem de sistemas  
-- `React.js` com `TailwindCSS` para front-end moderno  
+### **Cloud Computing**
+
+* Fundamentos de computação em nuvem
+* Deploy e organização de aplicações back-end
+* Noções de segurança e escalabilidade em ambientes cloud
+
+### **Desenvolvimento Web**
+
+* HTML5, CSS3 e JavaScript
+* React.js com foco em componentização, responsividade e acessibilidade
+
+### **Ferramentas**
+
+* Git e controle de versão
+* Linux e uso de terminal
+* Modelagem UML
 
 ---
 
 ## 🛠 Tech Stack
 
-<div style="display: inline_block">
-  <img align="center" alt="C" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="Java" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="MySQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="React" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="Git" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Linux" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-</div>
+**C • Java • Python • SQL • AWS • Spring Boot • MySQL • Oracle • Git • Linux**
+
+---
+
+## 🎯 Objetivo
+
+Atuar como **estagiário ou desenvolvedor júnior** em **Engenharia de Software / Back-end Cloud**, aplicando fundamentos sólidos, boas práticas de código e aprendizado contínuo em projetos reais.
 
 ---
 
 ## 📌 Contato
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/andradedossantosdiego/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/diandrade">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="mailto:contato.andradediego@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-</div>
+* 🔗 LinkedIn: [https://www.linkedin.com/in/andradedossantosdiego](https://www.linkedin.com/in/andradedossantosdiego)
+* 💻 GitHub: [https://github.com/diandrade](https://github.com/diandrade)
+* 📧 Email: [contato.andradediego@gmail.com](mailto:contato.andradediego@gmail.com)
+
+---
