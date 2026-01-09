@@ -1,11 +1,3 @@
-Perfeito — entendi 👍
-Abaixo está a **versão de README mais próxima do primeiro exemplo**, mantendo:
-
-* Estrutura **limpa e acadêmico-profissional**
-* Linguagem **sóbria e objetiva**
-* Ênfase em **Engenharia de Software e Back-end Cloud**
-* Sem excesso de “marketing”, mais **clareza técnica**
-
 ---
 
 # Diego Andrade dos Santos
