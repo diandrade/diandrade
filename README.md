@@ -1,19 +1,13 @@
----
-
 # Diego Andrade dos Santos
 
-Desenvolvedor em formação, com foco em **Engenharia de Software**, **fundamentos da programação**, **estruturas de dados** e **desenvolvimento back-end**. Atualmente cursando **Análise e Desenvolvimento de Sistemas** na **FIAP**, com estudos voltados a **Java**, **APIs REST** e **computação em nuvem (AWS)**, buscando consolidar boas práticas de arquitetura e desenvolvimento de software.
+Desenvolvedor em formação, com foco em **Engenharia de Software**, **fundamentos da programação**, **estruturas de dados** e **desenvolvimento back-end**. Atualmente cursando **Análise e Desenvolvimento de Sistemas** na FIAP, com estudos voltados a **Java**, **APIs REST** e **computação em nuvem (AWS)**, buscando consolidar boas práticas de arquitetura e desenvolvimento de software.
 
 ---
 
 ## 📚 Formação
 
 * 🎓 **Análise e Desenvolvimento de Sistemas** — FIAP *(em andamento)*
-* 💻 **Bootcamp Back-End Java & AWS** — Digital Innovation One *(em andamento)*
-
-  * Desenvolvimento de APIs REST com **Spring Boot**
-  * Integração com bancos **SQL e NoSQL**
-  * Deploy e fundamentos de arquitetura em **AWS**
+* 🧑‍💻 **Cadete (Formação em Engenharia de Software)** — 42 São Paulo *(em andamento)*
 * 🎨 **Técnico em Comunicação Visual** — ETEC Carlos de Campos
 
 ---
@@ -97,8 +91,6 @@ Atuar como **estagiário ou desenvolvedor júnior** em **Engenharia de Software 
 
 ## 📌 Contato
 
-* 🔗 LinkedIn: [https://www.linkedin.com/in/andradedossantosdiego](https://www.linkedin.com/in/andradedossantosdiego)
-* 💻 GitHub: [https://github.com/diandrade](https://github.com/diandrade)
+* 🔗 LinkedIn: https://www.linkedin.com/in/andradedossantosdiego
+* 💻 GitHub: https://github.com/diandrade
 * 📧 Email: [contato.andradediego@gmail.com](mailto:contato.andradediego@gmail.com)
-
----
