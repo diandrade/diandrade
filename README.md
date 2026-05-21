@@ -83,12 +83,6 @@ Desenvolvedor em formação, com foco em **Engenharia de Software**, **fundament
 
 ---
 
-## 🎯 Objetivo
-
-Atuar como **estagiário ou desenvolvedor júnior** em **Engenharia de Software / Back-end Cloud**, aplicando fundamentos sólidos, boas práticas de código e aprendizado contínuo em projetos reais.
-
----
-
 ## 📌 Contato
 
 * 🔗 LinkedIn: https://www.linkedin.com/in/andradedossantosdiego
