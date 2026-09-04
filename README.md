@@ -1,8 +1,8 @@
 # Diego Andrade dos Santos
 
 Desenvolvedor em formação, com foco em **Engenharia de Software**, **fundamentos da programação**, **estruturas de dados** e **desenvolvimento back-end**. Atualmente cursando **Análise e Desenvolvimento de Sistemas** na FIAP, com estudos voltados a **Java**, **APIs REST** e **computação em nuvem (AWS)**, buscando consolidar boas práticas de arquitetura e desenvolvimento de software.
-
 ---
+
 ## 📚 Formação
 * 🎓 **Análise e Desenvolvimento de Sistemas** — FIAP *(em andamento)*
 * 🧑‍💻 **Cadete (Formação em Engenharia de Software)** — 42 São Paulo *(em andamento)*
@@ -57,13 +57,8 @@ Desenvolvedor em formação, com foco em **Engenharia de Software**, **fundament
 ## 🛠 Tech Stack
 **C • Java • Python • SQL • AWS • Spring Boot • MySQL • Oracle • Git • Linux**
 ---
+
 ## 📌 Contato
 * 🔗 LinkedIn: https://www.linkedin.com/in/andradedossantosdiego
 * 💻 GitHub: https://github.com/diandrade
 * 📧 Email: [contato.andradediego@gmail.com](mailto:contato.andradediego@gmail.com)
-
-Sou estudante de Análise e Desenvolvimento de Sistemas na FIAP e de Engenharia de Software na 42 School, além de possuir formação técnica em Comunicação Visual pela ETEC Carlos de Campos. Sou certificado AWS Certified Cloud Practitioner (CLF-C02) e me dedico ao desenvolvimento back-end e à computação em nuvem, com foco em Java, Python e C, APIs REST, Spring Framework, Linux, Git e Oracle Database com Oracle PL/SQL.
-
-Na 42 School, desenvolvo competências por meio de uma metodologia prática baseada em projetos e aprendizagem entre pares (peer-to-peer), fortalecendo habilidades em resolução de problemas, algoritmos, estruturas de dados, programação de baixo nível, trabalho em equipe e autonomia, sempre aplicando boas práticas de engenharia de software.
-
-Em 2025, fui campeão da Global Solution FIAP e medalhista de bronze no FIAP Next, com um projeto voltado à redução do absenteísmo no IMREA (HC-FMUSP), unindo desenvolvimento de software, inteligência de dados e impacto social.
