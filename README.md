@@ -1,8 +1,8 @@
 # Diego Andrade dos Santos
 
 Desenvolvedor em formação, com foco em **Engenharia de Software**, **fundamentos da programação**, **estruturas de dados** e **desenvolvimento back-end**. Atualmente cursando **Análise e Desenvolvimento de Sistemas** na FIAP, com estudos voltados a **Java**, **APIs REST** e **computação em nuvem (AWS)**, buscando consolidar boas práticas de arquitetura e desenvolvimento de software.
----
 
+---
 ## 📚 Formação
 * 🎓 **Análise e Desenvolvimento de Sistemas** — FIAP *(em andamento)*
 * 🧑‍💻 **Cadete (Formação em Engenharia de Software)** — 42 São Paulo *(em andamento)*
